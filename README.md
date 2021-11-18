@@ -4,9 +4,6 @@
 
 
 
-    
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=AI&tag=Training&color=dark)](https://velog.io/@gnyiii) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=AI&tag=Concept)](https://velog.io/@gnyiii)
-
 
 
 <div align="center">
@@ -65,6 +62,10 @@ and studying Machine Learning and BlockChain Technology.
   <img src="https://img.shields.io/badge/taranndus@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.instagram.com/geunyeongiii/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> </a>
 </div>
 
+  <div align="center" style="text-align:center">
+    
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=AI&tag=Training&color=dark)](https://velog.io/@gnyiii) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=AI&tag=Concept)](https://velog.io/@gnyiii)
+</div>
 
 
 
