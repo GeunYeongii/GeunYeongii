@@ -3,10 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gnyiii's%20Github&fontSize=90&animation=blinking)
 
 
-<div align="center" style="text-align:center">
+
     
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=AI&tag=Training&color=dark)](https://velog.io/@gnyiii) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=AI&tag=Concept)](https://velog.io/@gnyiii)
-</div>  
+
 
 
 <div align="center">
