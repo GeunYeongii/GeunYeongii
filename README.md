@@ -44,7 +44,7 @@ and studying Machine Learning and BlockChain Technology.
 
 <div align="center">  
     
-  <img src="https://img.shields.io/badge/taranndus@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img href="https://www.instagram.com/geunyeongiii/" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/taranndus@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.instagram.com/geunyeongiii/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> </a>
 </div>
 
 
