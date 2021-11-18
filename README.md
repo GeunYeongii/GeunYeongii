@@ -18,7 +18,7 @@ and studying Machine Learning and BlockChain Technology.
 
 
 
-## <div align="center"> 🛠 Tach Stack 🛠</div>
+## <div align="center"> 🛠 Tech Stack 🛠</div>
 
 ### <div align="center"> 💻 Machine Learning </div>
 <div align="center">
