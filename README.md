@@ -5,8 +5,7 @@
 
 <div align="center" style="text-align:center">
     
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=AI&tag=Training&color=dark)](https://velog.io/@gnyiii)
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=AI&tag=Concept)](https://velog.io/@gnyiii)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=AI&tag=Training&color=dark)](https://velog.io/@gnyiii) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=AI&tag=Concept)](https://velog.io/@gnyiii)
 </div>  
 
 
