@@ -2,14 +2,23 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gnyiii's%20Github&fontSize=90&animation=blinking)
 
+
+ <center>
+    
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=AI&tag=DeepLearning&color=dark)](https://velog.io/@gnyiii)
+</cetner>  
+
+
 <div align="center">
 😄 Hi there! I'm undergraduate student majoring in Information Security,
 </div>    
 <div align="center">
 and studying Machine Learning and BlockChain Technology.
-</div>
+</div>  
 
-    
+
+
+
 
 
 ## <div align="center"> 🛠 Tach Stack 🛠</div>
@@ -55,6 +64,7 @@ and studying Machine Learning and BlockChain Technology.
     
   <img src="https://img.shields.io/badge/taranndus@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.instagram.com/geunyeongiii/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> </a>
 </div>
+
 
 
 
