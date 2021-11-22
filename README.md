@@ -7,7 +7,7 @@
 
 
 <div align="center">
-😄 Hi there! I'm undergraduate student majoring in Information Security,
+😄 I'm undergraduate student majoring in Information Security,
 </div>    
 <div align="center">
 and studying Machine Learning and BlockChain Technology.
