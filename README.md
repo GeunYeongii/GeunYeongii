@@ -42,8 +42,7 @@ and studying Machine Learning and BlockChain Technology.
 
 ### <div align="center"> ◼️ Other </div>
 <div align="center">
-<a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> <a href="https://www.blockchain.com/?utm_campaign=expnav_logo"><img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=Blockchain.com&logoColor=white"/></a>
-<a href="https://www.bitcoin.com/"><img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=Bitcoin&logoColor=white"/></a> <a href="https://ethereum.org/en/"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/></a>
+<a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
 </div>
 </br>
 <div align="center">
