@@ -10,7 +10,7 @@
 😄 I'm undergraduate student majoring in Information Security,
 </div>    
 <div align="center">
-and studying Machine Learning and BlockChain Technology.
+and studying Machine Learning
 </div>  
 
 
