@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gnyiii's%20Github&fontSize=90&animation=blinking)
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on Sejong.Univ
-- 🌱 I’m currently learning Machin learning and Python web
+- 👨🏽‍💻 I'm studying at Sejong.Univ's information Security
+- 🌱 I’m learning Python web and Machin learning
 - 📫 How to reach me: taranndus@gmail.com
 
 **🛠 Tech Stack 🛠** 
