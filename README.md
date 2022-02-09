@@ -1,63 +1,67 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnyiii&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gnyiii's%20Github&fontSize=90&animation=blinking)
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 👨🏽‍💻 I’m currently working on Sejong.Univ
+- 🌱 I’m currently learning Machin learning and Python web
+- 📫 How to reach me: taranndus@gmail.com
 
+**🛠 Tech Stack 🛠** 
 
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="ruby kim's github stats" src="https://github-readme-stats.vercel.app/api?username=GeunYeongii&show_icons=true&hide_border=true" />
+  </a>
 
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <br />
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <br />
 
-<div align="center">
-😄 I'm undergraduate student majoring in Information Security,
-</div>    
-<div align="center">
-and studying Machine Learning
-</div>  
+</p>
 
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+-->
 
-
-
-
-
-## <div align="center"> 🛠 Tech Stack 🛠</div>
-
-### <div align="center"> 💻 Machine Learning </div>
-<div align="center">
-<a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a> <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/Pytorch-150458?style=flat-square&logo=Pytorch&logoColor=white"/></a> <a href="https://pandas.pydata.org/docs/"><img src="https://img.shields.io/badge/Pandas-EE4C2C?style=flat-square&logo=pandas&logoColor=white"/></a> <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a> <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a> <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-</div>
-
-
-### <div align="center"> 📑 Language </div>
-<div align="center">
-</a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <a href="https://www.programiz.com/c-programming"><img src="https://img.shields.io/badge/Clang-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <a href="https://www.jetbrains.com/ko-kr/webstorm/promo/?source=google&medium=cpc&campaign=10627815744&gclid=CjwKCAiA7dKMBhBCEiwAO_crFKpED6rVash6vPvltYUgfnWddKeeOYtcoqaoP-ZadGHsQ-o4ikv-JxoCJHoQAvD_BwE"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-</div>
-
-### <div align="center"> 🖥 Web </div>
-<div align="center"> 
-<a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> </a> <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-</div>
-
-</br>
-<div align="center">
-.  
-</div>
-<div align="center">
-.  
-</div>
-<div align="center">
-.  
-</div>  
-</br>
-
-<div align="center">  
-    
-  <img src="https://img.shields.io/badge/taranndus@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-</div>
-
-  <div align="center" style="text-align:center">
+<div align="center" style="text-align:center">
     
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=AI&tag=DeepLearning&color=dark)](https://velog.io/@gnyiii)
 </div>
 
+<div align="center" style="text-align:center">
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnyiii&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+    
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GeunYeongii)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:taranndus@gmail.com)
+    
+</div>
 
 
 <!--
