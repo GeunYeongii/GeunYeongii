@@ -4,7 +4,6 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I'm studying at Sejong.Univ's information Security
-- 🌱 I’m learning Python web and Machin learning
 - 📫 How to reach me: taranndus@gmail.com
 
 **🛠 Tech Stack 🛠** 
