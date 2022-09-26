@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gnyiii's%20Github&fontSize=90&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gnyii's%20Github&fontSize=90&animation=blinking)
 
 <!--
 <img width="55%" text-align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
